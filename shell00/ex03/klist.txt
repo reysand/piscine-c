@@ -1,0 +1,5 @@
+Credentials cache: API:7105
+        Principal: fhelena@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 21 12:07:48 2018  Aug 22 12:07:48 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
