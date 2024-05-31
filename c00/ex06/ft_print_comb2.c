@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: fhelena <fhelena@student.21-school.ru>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/05/31 19:33:27 by fhelena           #+#    #+#             */
-/*   Updated: 2024/05/31 19:53:52 by fhelena          ###   ########.fr       */
+/*   Created: 2024/05/31 15:12:10 by fhelena           #+#    #+#             */
+/*   Updated: 2024/06/03 10:39:01 by fhelena          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,8 @@
 
 void	ft_putnbr(int n)
 {
-	int	nbr1;
-	int	nbr2;
+	char	nbr1;
+	char	nbr2;
 
 	nbr1 = n / 10 + 48;
 	nbr2 = n % 10 + 48;
